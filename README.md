@@ -10,7 +10,7 @@ A simple and fun web-based Tic Tac Toe game built using **HTML**, **CSS**, and *
 
 ## 🖼️ Preview
 
-![Game Preview](https://your-screenshot-or-gif-link-if-you-have-one)
+![Game Preview]((https://github.com/user-attachments/assets/b449847d-0190-4902-922e-e6104b9e9392))
 
 ![Screenshot 2025-06-06 103510](https://github.com/user-attachments/assets/b449847d-0190-4902-922e-e6104b9e9392)
 
