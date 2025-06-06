@@ -24,7 +24,7 @@ A simple and fun web-based Tic Tac Toe game built using **HTML**, **CSS**, and *
 
 ## 🔗 Live Demo
 
-👉 [Play the Game Here](https://Srish-pathak.github.io/TicTacToe-JS/)
+👉 [Play the Game Here](https://github.com/Srish-pathak/TicTacToe-JS)
 
 ---
 
@@ -35,9 +35,3 @@ A simple and fun web-based Tic Tac Toe game built using **HTML**, **CSS**, and *
 - ✅ Reset and New Game buttons
 - ✅ Stylish UI with hover effects and animations
 - ✅ Fully responsive for desktop and mobile
-
----
-
-## 🛠️ How to Run Locally
-
-1. Clone the repo:
