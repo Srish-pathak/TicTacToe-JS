@@ -1,10 +1,5 @@
-# TicTacToe-JS
+# Tic-Tac-Toe
 A classic Tic-Tac-Toe game built with pure HTML, CSS, and JavaScript. This interactive web-based game features a The project demonstrates fundamental concepts of DOM manipulation, event handling, and game logic implementation using JavaScript — practice front-end development and classic game programming. 
-
-
-# 🎮 Tic Tac Toe Game
-
-A simple and fun web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. This project is designed for beginners to learn the basics of DOM manipulation and event handling in JavaScript.
 
 ---
 
