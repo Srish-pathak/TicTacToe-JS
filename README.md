@@ -14,6 +14,9 @@ A classic Tic-Tac-Toe game built with pure HTML, CSS, and JavaScript. This inter
 
 ---
 
+## Demo
+[Click here to see the demo](https://srish-pathak.github.io/TicTacToe-JS/)
+
 ## 🚀 Features
 
 - ✅ Player vs Player
